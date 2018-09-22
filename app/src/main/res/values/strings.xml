@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">First 10 Even Numbers</string>
+    <string name="button">Execute</string>
+    <string name="label1">The first 10 even numbers excluding zero are:</string>
+</resources>
